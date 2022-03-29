@@ -1,4 +1,9 @@
 name:2
 name1:1
 bark:war wang
+<<<<<<< HEAD
 bark:wing wing
+=======
+bark1: wong wong
+
+>>>>>>> 98a83c20c392ea6703ed6465cce22d3b9e146ef5
